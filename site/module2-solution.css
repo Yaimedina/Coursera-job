@@ -1,6 +1,51 @@
-h1 {
-	background: blue;
-	width: 20px;
-	font-family: 20px;
+* { font-family: sans-serif;
+	font-weight: ;
+	font-size: 20;
 
+}
+
+article {
+	background: #999;
+	border: 1px solid black;
+	margin: 5px;
+	display: inline-block;
+	width: 290px;
+	height: 300px;
+	padding: 2px;
+	
+}
+
+.pink {
+	background: pink;
+	border: 1px solid;
+	float: right;
+	text-align: right;
+}
+
+.red {
+	background: red;
+	border: 1px solid;
+	float: right;
+	text-align: right;
+
+
+}
+
+.yellow {
+	background: yellow;
+	border: 1px solid;
+	float: right;
+	text-align: right;
+
+
+}
+
+.menu {
+	padding: 30px;
+	text-align: center;
+}
+
+h2 {
+	padding: 5px 5px;
+	margin: 2px 2px;
 }
