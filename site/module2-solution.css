@@ -7,14 +7,18 @@
 article {
 	background: #999;
 	border: 1px solid black;
-	margin: 5px;
+	margin: 0px;
 	display: block;
-	width: 290px;
-	height: 300px;
-	padding: 2px;
+	width: 295px;
+	height: 310px;
+	padding: 5px 10px 3px 10px;
 	box-sizing: border-box;
 	float: left;
-	
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    clear: both;
 }
 
 .pink {
