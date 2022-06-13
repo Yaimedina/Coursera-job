@@ -13,8 +13,6 @@ article {
 	height: 310px;
 	padding:2px;
 	box-sizing: border-box;
-	float: left;
-    clear: both;
 }
 
 .pink {
