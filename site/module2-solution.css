@@ -8,25 +8,41 @@ article {
 	background: #999;
 	border: 1px solid black;
 	margin: 5px;
-	display: inline-block;
+	display: block;
 	width: 290px;
 	height: 300px;
 	padding: 2px;
+	box-sizing: border-box;
+	float: left;
 	
 }
 
 .pink {
-	background: pink;
-	border: 1px solid;
 	float: right;
-	text-align: right;
+    position: relative;
+    border: 2px solid black;
+    border-top: 0px;
+    border-right: 0px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px 0px 3px 0px;
+    font-size: 125%;
+    background: pink;
 }
 
 .red {
-	background: red;
-	border: 1px solid;
 	float: right;
-	text-align: right;
+    position: relative;
+    border: 2px solid black;
+    border-top: 0px;
+    border-right: 0px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px 0px 3px 0px;
+    font-size: 125%;
+    background: red;
 
 
 }
