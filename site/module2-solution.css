@@ -4,14 +4,15 @@
 
 }
 
-article {
+p {
 	background: #999;
 	border: 1px solid black;
 	margin: 5px;
 	display: block;
-	width: 290px;
-	height: 310px;
+	width: 300px;
+	height: 300px;
 	padding: 2px;
+	float: left;
 	
 }
 
@@ -21,11 +22,10 @@ article {
     border: 2px solid black;
     border-top: 0px;
     border-right: 0px;
-    width: 200px;
+    width: 50px;
     text-align: center;
     font-weight: bold;
-    padding: 5px 0px 3px 0px;
-    font-size: 125%;
+    padding: 3px;
     background: pink;
 }
 
@@ -35,11 +35,10 @@ article {
     border: 2px solid black;
     border-top: 0px;
     border-right: 0px;
-    width: 200px;
+    width: 50px;
     text-align: center;
     font-weight: bold;
-    padding: 5px 0px 3px 0px;
-    font-size: 125%;
+    padding: 3px;
     background: red;
 
 
@@ -51,10 +50,10 @@ article {
     border: 2px solid black;
     border-top: 0px;
     border-right: 0px;
-    width: 200px;
+    width: 50px;
     text-align: center;
     font-weight: bold;
-    padding: 5px 0px 3px 0px;
+    padding: 3px;
     font-size: 125%;
     background: yellow;
 
@@ -66,7 +65,7 @@ article {
 	text-align: center;
 }
 
-h2 {
+h1 {
 	display: block;
 	padding: 4px 4px;
 	margin: 1px 1px;
