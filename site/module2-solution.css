@@ -9,10 +9,10 @@ article {
 	border: 1px solid black;
 	margin: 5px;
 	display: block;
-	width: 295px;
-	height: 310px;
-	padding:2px;
-	box-sizing: border-box;
+	width: 290px;
+	height: 300px;
+	padding: 2px;
+	
 }
 
 .pink {
